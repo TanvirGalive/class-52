@@ -97,7 +97,7 @@ a:hover { text-decoration: none }
   display: block;
     color: #333;
 }
-.single-service-box h2 {
+.single-service-box h4 {
   margin: 0;
   text-align: center;
   padding: 20px;
@@ -112,7 +112,7 @@ a:hover { text-decoration: none }
   background: #1cc9ce;
   border-color: #26395a;
 }
-.single-service-box:hover h2 {
+.single-service-box:hover h4 {
   background: #26395a;
   color: #fff;
 }
